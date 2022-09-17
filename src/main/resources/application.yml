@@ -1,0 +1,27 @@
+spring:
+  application:
+    name: TBTest
+  datasource:
+    driverClassName: org.postgresql.Driver
+    url: jdbc:postgresql://
+    username:
+    password:
+    pool: 10
+  jpa:
+    database: POSTGRESQL
+    show-sql: true
+    hibernate:
+      globally_quoted_identifiers: true
+      ddl-auto: update
+  profiles:
+    include:
+      - textholder
+
+logging:
+  file:
+    name: log.log
+
+bot:
+  name: TBT
+  token: 5682903908:AAEZArB7Yszt2ta5kU88rXmWKKIz7YDZnUo
+
