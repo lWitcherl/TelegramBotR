@@ -1,7 +1,7 @@
 package com.sikoraton.telegrambotr.mapper;
 
-import com.sikoraton.tbt.dto.UserDto;
-import com.sikoraton.tbt.entity.User;
+import com.sikoraton.telegrambotr.dto.UserDto;
+import com.sikoraton.telegrambotr.entity.User;
 import org.mapstruct.Mapper;
 import org.mapstruct.factory.Mappers;
 

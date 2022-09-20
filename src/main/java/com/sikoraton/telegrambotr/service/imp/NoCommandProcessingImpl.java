@@ -2,13 +2,13 @@ package com.sikoraton.telegrambotr.service.imp;
 
 import java.util.List;
 
-import com.sikoraton.tbt.bot.handlers.nocommand.NoCommandHandler;
-import com.sikoraton.tbt.service.DataFromUserService;
-import com.sikoraton.tbt.service.NoCommandProcessing;
-import com.sikoraton.tbt.util.BotMessageText;
-import com.sikoraton.tbt.util.I10nHandler;
-import com.sikoraton.tbt.util.SessionCache;
-import com.sikoraton.tbt.util.UserCache;
+import com.sikoraton.telegrambotr.bot.handlers.nocommand.NoCommandHandler;
+import com.sikoraton.telegrambotr.service.DataFromUserService;
+import com.sikoraton.telegrambotr.service.NoCommandProcessing;
+import com.sikoraton.telegrambotr.util.BotMessageText;
+import com.sikoraton.telegrambotr.util.I10nHandler;
+import com.sikoraton.telegrambotr.util.SessionCache;
+import com.sikoraton.telegrambotr.util.UserCache;
 import lombok.Getter;
 import lombok.Setter;
 import org.springframework.beans.factory.annotation.Autowired;

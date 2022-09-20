@@ -1,11 +1,11 @@
 package com.sikoraton.telegrambotr.bot.handlers.nocommand;
 
-import com.sikoraton.tbt.bot.handlers.keyboards.StartKeyboard;
-import com.sikoraton.tbt.util.BotMenuText;
-import com.sikoraton.tbt.util.BotMessageText;
-import com.sikoraton.tbt.util.I10nHandler;
-import com.sikoraton.tbt.util.SessionCache;
-import com.sikoraton.tbt.util.UserCache;
+import com.sikoraton.telegrambotr.bot.handlers.keyboards.StartKeyboard;
+import com.sikoraton.telegrambotr.util.BotMenuText;
+import com.sikoraton.telegrambotr.util.BotMessageText;
+import com.sikoraton.telegrambotr.util.I10nHandler;
+import com.sikoraton.telegrambotr.util.SessionCache;
+import com.sikoraton.telegrambotr.util.UserCache;
 import lombok.Getter;
 import lombok.Setter;
 import org.springframework.beans.factory.annotation.Autowired;

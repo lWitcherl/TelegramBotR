@@ -2,17 +2,17 @@ package com.sikoraton.telegrambotr.service.imp;
 
 import java.util.regex.Pattern;
 
-import com.sikoraton.tbt.bot.handlers.keyboards.MainMenuKeyboard;
-import com.sikoraton.tbt.bot.handlers.keyboards.StartKeyboard;
-import com.sikoraton.tbt.entity.Record;
-import com.sikoraton.tbt.enums.StatusEnums;
-import com.sikoraton.tbt.repository.GameRoomRepository;
-import com.sikoraton.tbt.repository.RecordRepository;
-import com.sikoraton.tbt.service.DataFromUserService;
-import com.sikoraton.tbt.util.BotMessageText;
-import com.sikoraton.tbt.util.I10nHandler;
-import com.sikoraton.tbt.util.SessionCache;
-import com.sikoraton.tbt.util.UserCache;
+import com.sikoraton.telegrambotr.bot.handlers.keyboards.MainMenuKeyboard;
+import com.sikoraton.telegrambotr.bot.handlers.keyboards.StartKeyboard;
+import com.sikoraton.telegrambotr.entity.Record;
+import com.sikoraton.telegrambotr.enums.StatusEnums;
+import com.sikoraton.telegrambotr.repository.GameRoomRepository;
+import com.sikoraton.telegrambotr.repository.RecordRepository;
+import com.sikoraton.telegrambotr.service.DataFromUserService;
+import com.sikoraton.telegrambotr.util.BotMessageText;
+import com.sikoraton.telegrambotr.util.I10nHandler;
+import com.sikoraton.telegrambotr.util.SessionCache;
+import com.sikoraton.telegrambotr.util.UserCache;
 import lombok.Getter;
 import lombok.Setter;
 import org.springframework.beans.factory.annotation.Autowired;

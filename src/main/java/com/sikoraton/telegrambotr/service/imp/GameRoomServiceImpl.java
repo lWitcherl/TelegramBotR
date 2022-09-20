@@ -1,12 +1,12 @@
 package com.sikoraton.telegrambotr.service.imp;
 
-import com.sikoraton.tbt.dto.GameRoomDto;
-import com.sikoraton.tbt.entity.GameRoom;
-import com.sikoraton.tbt.entity.Record;
-import com.sikoraton.tbt.repository.GameRoomRepository;
-import com.sikoraton.tbt.repository.RecordRepository;
-import com.sikoraton.tbt.repository.UserRepository;
-import com.sikoraton.tbt.service.GameRoomService;
+import com.sikoraton.telegrambotr.dto.GameRoomDto;
+import com.sikoraton.telegrambotr.entity.GameRoom;
+import com.sikoraton.telegrambotr.entity.Record;
+import com.sikoraton.telegrambotr.repository.GameRoomRepository;
+import com.sikoraton.telegrambotr.repository.RecordRepository;
+import com.sikoraton.telegrambotr.repository.UserRepository;
+import com.sikoraton.telegrambotr.service.GameRoomService;
 import lombok.Getter;
 import lombok.Setter;
 import org.springframework.beans.factory.annotation.Autowired;

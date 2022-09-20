@@ -4,8 +4,8 @@ import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-import com.sikoraton.tbt.util.BotMenuText;
-import com.sikoraton.tbt.util.I10nHandler;
+import com.sikoraton.telegrambotr.util.BotMenuText;
+import com.sikoraton.telegrambotr.util.I10nHandler;
 import lombok.Getter;
 import lombok.Setter;
 import org.springframework.beans.factory.annotation.Autowired;

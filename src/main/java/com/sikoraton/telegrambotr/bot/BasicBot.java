@@ -3,7 +3,8 @@ package com.sikoraton.telegrambotr.bot;
 import javax.annotation.PostConstruct;
 import java.util.Set;
 
-import com.sikoraton.tbt.service.NoCommandProcessing;
+
+import com.sikoraton.telegrambotr.service.NoCommandProcessing;
 import lombok.Setter;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

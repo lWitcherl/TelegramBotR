@@ -22,6 +22,6 @@ logging:
     name: log.log
 
 bot:
-  name: TBT
-  token: 5682903908:AAEZArB7Yszt2ta5kU88rXmWKKIz7YDZnUo
+  name:
+  token:
 

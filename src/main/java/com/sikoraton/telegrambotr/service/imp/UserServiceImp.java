@@ -1,9 +1,9 @@
 package com.sikoraton.telegrambotr.service.imp;
 
-import com.sikoraton.tbt.dto.UserDto;
-import com.sikoraton.tbt.mapper.UserMapper;
-import com.sikoraton.tbt.repository.UserRepository;
-import com.sikoraton.tbt.service.UserService;
+import com.sikoraton.telegrambotr.dto.UserDto;
+import com.sikoraton.telegrambotr.mapper.UserMapper;
+import com.sikoraton.telegrambotr.repository.UserRepository;
+import com.sikoraton.telegrambotr.service.UserService;
 import lombok.Getter;
 import lombok.Setter;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,6 +1,6 @@
 package com.sikoraton.telegrambotr.repository;
 
-import com.sikoraton.tbt.entity.Record;
+import com.sikoraton.telegrambotr.entity.Record;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 

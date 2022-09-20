@@ -1,7 +1,7 @@
 package com.sikoraton.telegrambotr.mapper;
 
-import com.sikoraton.tbt.dto.GameRoomDto;
-import com.sikoraton.tbt.entity.GameRoom;
+import com.sikoraton.telegrambotr.dto.GameRoomDto;
+import com.sikoraton.telegrambotr.entity.GameRoom;
 import org.mapstruct.Mapper;
 import org.mapstruct.factory.Mappers;
 

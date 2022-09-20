@@ -1,12 +1,12 @@
 package com.sikoraton.telegrambotr.bot.handlers.command;
 
-import com.sikoraton.tbt.bot.handlers.keyboards.Keyboard;
-import com.sikoraton.tbt.mapper.UserMapper;
-import com.sikoraton.tbt.service.UserService;
-import com.sikoraton.tbt.util.BotMessageText;
-import com.sikoraton.tbt.util.I10nHandler;
-import com.sikoraton.tbt.util.SessionCache;
-import com.sikoraton.tbt.util.UserCache;
+import com.sikoraton.telegrambotr.bot.handlers.keyboards.Keyboard;
+import com.sikoraton.telegrambotr.mapper.UserMapper;
+import com.sikoraton.telegrambotr.service.UserService;
+import com.sikoraton.telegrambotr.util.BotMessageText;
+import com.sikoraton.telegrambotr.util.I10nHandler;
+import com.sikoraton.telegrambotr.util.SessionCache;
+import com.sikoraton.telegrambotr.util.UserCache;
 import lombok.Getter;
 import lombok.Setter;
 import org.apache.logging.log4j.LogManager;

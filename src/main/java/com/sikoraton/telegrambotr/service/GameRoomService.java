@@ -1,6 +1,6 @@
 package com.sikoraton.telegrambotr.service;
 
-import com.sikoraton.tbt.dto.GameRoomDto;
+import com.sikoraton.telegrambotr.dto.GameRoomDto;
 
 public interface GameRoomService {
     Long createGameRoom(Long user);
